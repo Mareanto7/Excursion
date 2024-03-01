@@ -30,3 +30,9 @@ body {
   font-size: 21px;
   color: gray;
 }
+
+.foot {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+}
