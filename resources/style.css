@@ -5,8 +5,15 @@ body {
 }
 
 .header--main{
-text-align: center;
-font-weight: normal;
-font-size: 50px;
-color: white;
+  text-align: center;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+.link--cta {
+  font-size: 16px;
+  color: aquamarine;
+  text-align: center;
+
 }
